@@ -1,0 +1,5 @@
+{
+  "name": "Spelling Spark",
+  "description": "An interactive spelling and vocabulary game app. Enter a list of words to play various games like Word Scramble, Hangman, Flashcards, and more, complete with AI-powered definitions.",
+  "requestFramePermissions": []
+}
